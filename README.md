@@ -1,2 +1,14 @@
-# comp110-worksheet-4
-Base repository for COMP110 worksheet 4
+# COMP110 Worksheet 4
+
+Please edit this README.md file with your answers to the worksheet questions.
+
+## Question 1
+
+### a
+
+### b
+
+### c
+
+### d
+
