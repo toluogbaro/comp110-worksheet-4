@@ -2,13 +2,43 @@
 
 Please edit this README.md file with your answers to the worksheet questions.
 
-## Question 1
+## Question 1
 
-### a
+### a
 
-### b
+### b
 
-### c
+### c
 
-### d
+### d
+
+## Question 2
+
+### a
+
+### b
+
+### c
+
+### d
+
+## Question 3
+
+### a
+
+### b
+
+### c
+
+### d
+
+## Question 4
+
+### a
+
+### b
+
+### c
+
+### d
 
