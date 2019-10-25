@@ -7,9 +7,11 @@ Please edit this README.md file with your answers to the worksheet questions.
 ### a 
 A AND B AND Not C
 
-A            B             C
+#### A        #### B        #### C
+
 False        False         True
-True         True          False
+
+True          False        False
 
 ### b
 A AND (B or Not C)
