@@ -4,11 +4,23 @@ Please edit this README.md file with your answers to the worksheet questions.
 
 ## Question 1
 
-### a
+### a 
+A AND B AND Not C
+
+A            B             C
+False        False         True
+True         True          False
 
 ### b
+A AND (B or Not C)
+
+A            B             Not C
+True         False         True
+False        True          False
 
 ### c
+
+            
 
 ### d
 
