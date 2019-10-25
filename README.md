@@ -16,11 +16,11 @@ True     /      False       /    False
 ### b
 A AND (B or Not C)
 
-A             B             Not C
+A      /       B      /       Not C
 
-True         False         True
+True     /    False      /   True
 
-False        True          False
+False     /   True       /   False
 
 ### c
 
